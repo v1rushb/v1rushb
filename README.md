@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bashar Herbawi, aka V1rush</h1>
 <h3 align="center">A passionate Web developer | Problem Solver</h3>
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1646587627841878835/2D5C8B4A0A04885FED59977398D78CF1FBD42D9B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/f3/8a/81f38a6761045e678b3d76e2d93a6f2d.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v1rush&label=Profile%20views&color=0e75b6&style=flat" alt="v1rush" /> </p>
 
