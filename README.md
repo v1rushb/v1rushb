@@ -1,4 +1,4 @@
-[![MasterHead](https://windowscustomization.com/wp-content/uploads/2018/08/cyberpunk-city.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bashar Herbawi, aka V1rush</h1>
 <h3 align="center">A passionate Web developer | Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/pw/AIL4fc-NxCGG-sa9iD78S3yFK_pX6L7Ht4yFmtQ6gcnD29vP9YiuIkLZLop0xfrsVv9WFUrnNpWB2nG4zDM2Sh2YzI3NrP6PnziKYyePBrSlNqX7h3QvQYKeFw3-M1XQO16uOSrd2tcW5pLPDsdoNPg3Vy0=w251-h249-s-no?authuser=0">
