@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bashar Herbawi, aka V1rush</h1>
 <h3 align="center">A passionate Web developer | Problem Solver</h3>
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1646587627841878835/2D5C8B4A0A04885FED59977398D78CF1FBD42D9B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/pw/AIL4fc-NxCGG-sa9iD78S3yFK_pX6L7Ht4yFmtQ6gcnD29vP9YiuIkLZLop0xfrsVv9WFUrnNpWB2nG4zDM2Sh2YzI3NrP6PnziKYyePBrSlNqX7h3QvQYKeFw3-M1XQO16uOSrd2tcW5pLPDsdoNPg3Vy0=w251-h249-s-no?authuser=0">
+
 
 - 🌱 I’m currently learning **NodeJS, Exploring the depths of Competitive Programming.**
 
