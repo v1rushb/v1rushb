@@ -1,9 +1,6 @@
-[![MasterHead](https://windowscustomization.com/wp-content/uploads/2018/08/cyberpunk-city.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Bashar Herbawi, aka V1rush</h1>
 <h3 align="center">A passionate Web developer | Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/pw/AIL4fc-NxCGG-sa9iD78S3yFK_pX6L7Ht4yFmtQ6gcnD29vP9YiuIkLZLop0xfrsVv9WFUrnNpWB2nG4zDM2Sh2YzI3NrP6PnziKYyePBrSlNqX7h3QvQYKeFw3-M1XQO16uOSrd2tcW5pLPDsdoNPg3Vy0=w251-h249-s-no?authuser=0">
-
 
 - 🌱 I’m currently learning **NodeJS, Exploring the depths of Competitive Programming.**
 
@@ -21,3 +18,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v1rush&show_icons=true&locale=en&layout=compact" alt="v1rush" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v1rush&show_icons=true&locale=en" alt="v1rush" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v1rush&" alt="v1rush" /></p>
