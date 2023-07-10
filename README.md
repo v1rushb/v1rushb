@@ -25,10 +25,10 @@
 
 
    <p align="left">
-      <a href="https://github.com/V1rush?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/V1rush?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/V1rushB?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/V1rushB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/V1rush?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/V1rushB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -49,5 +49,5 @@
 
 ### 📊 Stats
 
-![V1rush's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1rush&show_icons=true&theme=gruvbox)
-![V1rush's Streak](https://github-readme-streak-stats.herokuapp.com/?user=v1rush&theme=gruvbox)
+![V1rushB's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1rushB&show_icons=true&theme=gruvbox)
+![V1rushB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=v1rushB&theme=gruvbox)
