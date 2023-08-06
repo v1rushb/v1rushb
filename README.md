@@ -11,7 +11,7 @@
 
  🌱 I’m currently learning **Backend, Exploring the depths of Competitive Programming.**
 
-- 📫 How to reach me **theprogamermch@hotmail.com**
+- 📫 How to reach me **cs.bashar.herbawi@gmail.com**
 
 - 📄 Know about my experiences [Competitive Programming]
 
