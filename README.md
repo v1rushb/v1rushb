@@ -63,8 +63,10 @@ Old themes
 ![V1rushB's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1rushB&show_icons=true&theme=radical)
 ![V1rushB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=v1rushB&theme=radical)  
 -->
-<img align = "left" src="https://github-readme-stats.vercel.app/api?username=v1rushB&show_icons=true&theme=radical"  alt="V1rushB" width = "350">
-<img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=v1rushB&theme=radical"  alt="V1rushB" width = "350">
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=v1rushB&show_icons=true&theme=radical"  alt="V1rushB" width = "400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v1rushB&theme=radical"  alt="V1rushB" width = "440">
+</p>
 <p align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=V1rushB&show_icons=true&locale=en&layout=compact&theme=radical" width = 450 height = 250>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=V1rushB&show_icons=true&locale=en&layout=compact&theme=radical">
 </p>
