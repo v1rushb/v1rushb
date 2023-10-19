@@ -16,8 +16,10 @@
 - 📄 Currently working on an Expense Tracking applicaiton.
 
 - 🔦 Got a problem? Just binary search the answer.
+  
+- 🩼 My back hurts when I do backend
 
--  My back hurts when I do backend
+- <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="30"> The R word is forbidden.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
