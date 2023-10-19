@@ -58,8 +58,13 @@
 
 ### 📊 Stats
 
+<!--
+Old themes
 ![V1rushB's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1rushB&show_icons=true&theme=radical)
-![V1rushB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=v1rushB&theme=radical)
+![V1rushB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=v1rushB&theme=radical)  
+-->
+<img align = "left" src="https://github-readme-stats.vercel.app/api?username=v1rushB&show_icons=true&theme=radical"  alt="V1rushB">
+<img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=v1rushB&theme=radical"  alt="V1rushB">
 <p align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=V1rushB&show_icons=true&locale=en&layout=compact&theme=radical" width = 450>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=V1rushB&show_icons=true&locale=en&layout=compact&theme=radical" width = 450 height = 250>
 </p>
