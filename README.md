@@ -13,7 +13,7 @@
 
 - ⚡ How to reach me **cs.bashar.herbawi@gmail.com**
 
-- 📄 Currently working on an Expense Tracking applicaiton.
+- 📄 Currently working on an Ecommerce web application.
 
 - 🔦 Got a problem? Just binary search the answer.
   
@@ -62,8 +62,8 @@
 
 <!--
 Old themes
-![V1rushB's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1rushB&show_icons=true&theme=radical)
-![V1rushB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=v1rushB&theme=radical)  
+![v1rushb's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1rushB&show_icons=true&theme=radical)
+![v1rushb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=v1rushB&theme=radical)  
 -->
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=v1rushB&show_icons=true&theme=radical"  alt="V1rushB" width = "400">
