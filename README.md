@@ -13,11 +13,11 @@
 
 - ⚡ How to reach me **cs.bashar.herbawi@gmail.com**
 
-- 📄 Currently working on an Ecommerce web application.
+- 📄 Currently working on an E-Commerce web application.
 
 - 🔦 Got a problem? Just binary search the answer.
   
-- 🩼 My back hurts when I do backend
+- 🩼 The term `back` in backend stands for backache.
 
 - <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="30"> The R word is forbidden.
 
