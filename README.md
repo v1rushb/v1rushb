@@ -72,3 +72,8 @@ Old themes
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=V1rushB&show_icons=true&locale=en&layout=compact&theme=radical" width = 350>
 </p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW85a2Uxb282bmhrYXUxMm92eGQwc3h4bjFxbnlqdmVkejQ5OGo3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpCCFDQqQ4VtoDvDEc/giphy.gif" width="1000" height="300">
+ 
+</p>
