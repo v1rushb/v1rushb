@@ -9,7 +9,7 @@
 **`Web Developer | Competitive Programmer`**
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/pw/AIL4fc-NxCGG-sa9iD78S3yFK_pX6L7Ht4yFmtQ6gcnD29vP9YiuIkLZLop0xfrsVv9WFUrnNpWB2nG4zDM2Sh2YzI3NrP6PnziKYyePBrSlNqX7h3QvQYKeFw3-M1XQO16uOSrd2tcW5pLPDsdoNPg3Vy0=w251-h249-s-no?authuser=0">
 
- 🌱 I’m currently learning **Backend, Exploring the depths of Competitive Programming.**
+ 🌱 I code whatever helps make my life get easier.
 
 - ⚡ How to reach me **cs.bashar.herbawi@gmail.com**
 
