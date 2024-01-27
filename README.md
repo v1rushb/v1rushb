@@ -2,8 +2,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2puY3kxa2x3YXI4ZmF5Y2V1em02YTYwbWJ6cTJlNWk4dDJxdGdhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wf9mkcPKLLf0BQfgRQ/giphy.gif" alt="Header" Alt = "Header" width="1000" height="300">
  
 </p>
-
-
 # 👾 Bashar Herbawi// V1rushB
 
 **`Web Developer | Competitive Programmer`**
@@ -49,13 +47,13 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
 #
 
 ### Views
 <a href="https://www.youtube.com/watch?v=z58IY4qTeAw&list=PLCQH2CntGT_AMLEz0keq4A-j8Yg1JQklr&index=68"> 
 <img src="https://profile-counter.glitch.me/v1rushb/count.svg" alt="0vm" />
 </a>
+
 
 
 ### 📊 Stats
@@ -72,8 +70,20 @@ Old themes
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=V1rushB&show_icons=true&locale=en&layout=compact&theme=radical" width = 350>
 </p>
-
+<!--
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW85a2Uxb282bmhrYXUxMm92eGQwc3h4bjFxbnlqdmVkejQ5OGo3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpCCFDQqQ4VtoDvDEc/giphy.gif" width="1000" height="300">
- 
 </p>
+ -->
+ <p float="left">
+  <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
+  <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" /> 
+  <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
+  <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
+  <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
+  <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
+  <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
+  <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
+  <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
+</p>
+ 
