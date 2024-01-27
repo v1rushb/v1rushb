@@ -46,8 +46,9 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
-#
 
 ### Views
 <a href="https://www.youtube.com/watch?v=z58IY4qTeAw&list=PLCQH2CntGT_AMLEz0keq4A-j8Yg1JQklr&index=68"> 
@@ -78,7 +79,6 @@ Old themes
  <p float="left">
   <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
   <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" /> 
-  <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
   <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
   <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
   <img src="https://cdn3.emoji.gg/emojis/7233-loafofbreaddoge.png" width="100" />
