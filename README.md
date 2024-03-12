@@ -11,7 +11,7 @@
 
 - ⚡ How to reach me **cs.bashar.herbawi@gmail.com**
 
-- 📄 Currently working on an E-Commerce web application.
+- 📄 Currently working on a Cryptography Project.
 
 - 🔦 Got a problem? Just binary search the answer.
   
