@@ -2,16 +2,17 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2puY3kxa2x3YXI4ZmF5Y2V1em02YTYwbWJ6cTJlNWk4dDJxdGdhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wf9mkcPKLLf0BQfgRQ/giphy.gif" alt="Header" Alt = "Header" width="1000" height="300">
  
 </p>
-# 👾 Bashar Herbawi// V1rushB
 
-**`Web Developer | Competitive Programmer`**
+# 👾 Bashar Herbawi // v1rushb 
+
+**`Web Developer | Competitive Programmer | Software Engineer`**
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/pw/AIL4fc-NxCGG-sa9iD78S3yFK_pX6L7Ht4yFmtQ6gcnD29vP9YiuIkLZLop0xfrsVv9WFUrnNpWB2nG4zDM2Sh2YzI3NrP6PnziKYyePBrSlNqX7h3QvQYKeFw3-M1XQO16uOSrd2tcW5pLPDsdoNPg3Vy0=w251-h249-s-no?authuser=0">
 
  🌱 I code whatever helps make my life get easier.
 
 - ⚡ How to reach me **cs.bashar.herbawi@gmail.com**
 
-- 📄 Currently working on a Cryptography Project.
+- 📄 Currently working on Cryptographix.
 
 - 🔦 Got a problem? Just binary search the answer.
   
