@@ -8,11 +8,11 @@
 **`Web Developer | Competitive Programmer | Software Engineer`**
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/pw/AIL4fc-NxCGG-sa9iD78S3yFK_pX6L7Ht4yFmtQ6gcnD29vP9YiuIkLZLop0xfrsVv9WFUrnNpWB2nG4zDM2Sh2YzI3NrP6PnziKYyePBrSlNqX7h3QvQYKeFw3-M1XQO16uOSrd2tcW5pLPDsdoNPg3Vy0=w251-h249-s-no?authuser=0">
 
- 🌱 I code whatever helps make my life get easier.
+- 🌱 I code whatever helps make my life get easier.
 
-- ⚡ How to reach me **cs.bashar.herbawi@gmail.com**
+- ⚡ Reach me **cs.bashar.herbawi@gmail.com**
 
-- 📄 Currently working on Cryptographix.
+- 📄 Currently Backending.
 
 - 🔦 Got a problem? Just binary search the answer.
   
@@ -39,6 +39,7 @@
 ---
 
 ### 🧰 Languages and Tools
+<!--
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -50,6 +51,9 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
+-->
+
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,c,cpp,cs,java,ts,js,py,nodejs,docker,neovim,github,git,arch,bash,dotnet,mysql,postgres,firebase&perline=20)](https://skillicons.dev)
 
 ### Views
 <a href="https://www.youtube.com/watch?v=z58IY4qTeAw&list=PLCQH2CntGT_AMLEz0keq4A-j8Yg1JQklr&index=68"> 
